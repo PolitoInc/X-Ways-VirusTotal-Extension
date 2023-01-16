@@ -18,4 +18,4 @@ Polito Inc. is providing the Opswat MetaDefender hash query and file submission 
 <p>
 <!-- See blog post here for more details and instructions for how to use this extension in X-Ways: -->
 <!-- <img src="https://github.com/PolitoInc/X-Ways-VirusTotal-Extension/raw/main/virustotal-xways.png"> -->
-[VirusTotal-Xways]("virustotal-xways.png")
+<img src="virustotal-xways.png">
