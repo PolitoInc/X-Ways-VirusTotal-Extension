@@ -17,4 +17,4 @@ Polito Inc. is providing the Opswat MetaDefender hash query and file submission 
 <p> After running plugin, output of results are in Metadata column
 <p>
 <!-- See blog post here for more details and instructions for how to use this extension in X-Ways: -->
-<!-- <img src="virustotal-xways.png"> -->
+<!-- <img src="https://github.com/PolitoInc/X-Ways-VirusTotal-Extension/raw/main/virustotal-xways.png"> -->
