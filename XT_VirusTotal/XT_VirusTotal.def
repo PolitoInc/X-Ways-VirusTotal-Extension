@@ -1,0 +1,7 @@
+LIBRARY
+EXPORTS
+	XT_Init				@1
+	XT_About			@2
+	XT_Prepare			@3
+	XT_ProcessItem		@4
+	XT_Done				@5
