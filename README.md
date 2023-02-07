@@ -5,7 +5,7 @@ Home of the VirusTotal extension for X-Ways that Polito Inc. developed for use w
 
 VirusTotal hash query extension for X-Ways Forensics platform. Requires VirusTotal API credentials.
 VirusTotal api credentials can be obtained here : https://www.virustotal.com/gui/join-us
-Please see our blog post for detailed instructions about how to use this VirusTotal plugin with X-Ways: https://www.politoinc.com/VirusTotal It has been tested on X-Ways versions 19.3 to 20.5 (64-bit only). Additional versions are still being tested for compatibility. 
+Please see our blog post for detailed instructions about how to use this VirusTotal plugin with X-Ways: https://www.politoinc.com/post/enhancing-digital-forensics-with-x-ways-x-tensions-virustotal-plugin It has been tested on X-Ways versions 19.3 to 20.5 (64-bit only). Additional versions are still being tested for compatibility. 
 
 Initial release (version 0.2). The plugin will require you to create a vtconfig.txt file in the same folder where the .DLL file is located. This should contain two fields separated by a colon ":" character. The first field should be your API key for VirusTotal and the second field should be the number of queries per minute that your API key allows. For example:
 
