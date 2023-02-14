@@ -12,7 +12,7 @@ This X-Tension has been tested on X-Ways versions 19.3 to 20.5 (64-bit only). Ad
 
 The plugin will require you to create a file named vtconfig.txt in the same folder where the X-Tension .DLL file is located. This should contain two fields separated by a colon ":" character. The first field should be your API key for VirusTotal and the second field should be the number of queries per minute that your API key allows. For example:
 
-012345...abcdef:4
+`012345...abcdef:4`
 
 This will tell the X-Tension to use your API key that starts with 012345...abcdef at a rate of 4 queries per minute. Note: The file needs to be saved in UTF-8 encoding; if you use UTF-16, notepad.exe will add additional characters to the text file which will cause issues when the X-Tension attempts to read the configuration file.
 
